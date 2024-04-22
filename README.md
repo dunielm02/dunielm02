@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I started programming doing most of all competitive programming with the languages C/C++. Because of that, I acquired a love for being face-to-face with hard problems that made me lose sleep. I also like concurrent programming and distributed systems which is the reason why I chose Go as one of my main languages.
 <!--
 **dunielm02/dunielm02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
